@@ -1,18 +1,24 @@
-<h1 align="center">
-Hi 👋, I'm Nithin P Gowda
-</h1>
+<h1 align="center">Hi 👋, I'm Nithin P Gowda</h1>
 
 <h3 align="center">
-Full Stack Developer • AI/ML Enthusiast • Data Science Student
+🚀 Full Stack Developer • 🤖 AI/ML Enthusiast • 📊 Data Science Student
 </h3>
 
 <p align="center">
-Building intelligent products that solve real-world problems using AI, NLP, and modern web technologies.
+Passionate about building AI-powered, scalable, and user-centric applications that solve real-world problems.
 </p>
 
 <p align="center">
 <a href="https://github.com/nithinisaimg">
-<img src="https://komarev.com/ghpvc/?username=nithinisaimg&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=nithinisaimg&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/nithinisaimg?tab=followers">
+<img src="https://img.shields.io/github/followers/nithinisaimg?label=Followers&style=for-the-badge" />
+</a>
+
+<a href="https://github.com/nithinisaimg">
+<img src="https://img.shields.io/github/stars/nithinisaimg?affiliations=OWNER&style=for-the-badge" />
 </a>
 </p>
 
@@ -20,62 +26,63 @@ Building intelligent products that solve real-world problems using AI, NLP, and 
 
 # 👨‍💻 About Me
 
-🎓 Computer Science Engineering (Data Science)
-
+🎓 **B.E. Computer Science & Engineering (Data Science)**  
 🏫 Vemana Institute of Technology, Bengaluru
 
-💡 Passionate about
+💡 I enjoy designing and developing intelligent software using AI, Machine Learning, NLP, and modern Full Stack technologies.
 
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing
-- Full Stack Development
-- Data Visualization
-- Open Source
+🔭 **Currently Building**
+- AI-powered Web Applications
+- Real-Time Collaborative Platforms
+- Intelligent Data Visualization Systems
 
-🚀 I enjoy building applications that combine
-AI + Modern UI + Real-world problem solving.
+🌱 **Currently Learning**
+- System Design
+- Cloud Computing
+- AI Agents
+- Advanced Backend Development
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
 </p>
 
-### Backend
+### ⚙ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### Databases
+### 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
 </p>
 
-### AI / Data Science
+### 🤖 AI / ML
 
 - Machine Learning
-- NLP
-- Pandas
-- NumPy
+- Natural Language Processing (NLP)
 - PySpark
 - Kafka
 - HDFS
 - MapReduce
+- Pandas
+- NumPy
+- FastAPI
 
-### Tools
+### 🧰 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
@@ -87,79 +94,71 @@ AI + Modern UI + Real-world problem solving.
 
 ## 🧠 AI Lab – Machine Learning Visualizer
 
-Interactive platform that visually demonstrates
+Interactive ML learning platform that visually demonstrates
 
-- Model Training
 - Underfitting
 - Overfitting
-- Evaluation Metrics
+- Model Training
 - Hyperparameter Tuning
+- Evaluation Metrics
 
-**Tech**
-
-React • TypeScript • Vite
+**Tech:** React • TypeScript • Vite
 
 ---
 
 ## 💬 BlueBox Messenger
 
-Real-time messaging platform featuring
+A real-time messaging platform featuring
 
 - Private Chats
 - Group Chats
 - File Sharing
 - Online Status
-- Modern UI
+- Modern Responsive UI
 
-**Tech**
-
-React • Node.js • MongoDB
+**Tech:** React • Node.js • MongoDB
 
 ---
 
 ## 🌍 EpiGlobe Horizon
 
-Disease surveillance platform featuring
+Interactive disease surveillance dashboard featuring
 
+- Global Disease Analytics
+- SIR Forecasting
 - Interactive Globe
-- Disease Forecasting
-- Country Analytics
-- SIR Epidemiological Model
+- Country Statistics
 
-**Tech**
-
-React • TypeScript • Data Visualization
+**Tech:** React • TypeScript • Data Visualization
 
 ---
 
 ## 🦠 NLP Disease Outbreak Analysis
 
-Healthcare analytics platform using NLP
+AI-powered healthcare analytics platform
 
-Features
+Features include
 
-- Text Summarization
+- NLP
 - Disease Classification
+- Text Summarization
 - Symptom Analysis
-- Forecasting
-- Dashboard
+- Epidemiological Forecasting
 
-**Tech**
-
-Python • FastAPI • React
+**Tech:** Python • FastAPI • React
 
 ---
 
 ## 💙 NI – Nan Idhini
 
-AI-powered emotional wellness platform
+AI-assisted emotional wellness platform
 
 Features
 
-- Mood Analysis
-- Personalized Activities
+- Emotion Analysis
+- Personalized Wellness Activities
 - Crisis Detection
-- AI Chat
+- Intelligent Chat
 - Responsive UI
 
 ---
@@ -180,12 +179,10 @@ Explainable NLP classifier capable of identifying
 
 Real-time collaborative workspace
 
-Features
-
 - Shared Whiteboard
 - Collaborative Notes
 - Live Synchronization
-- Team Productivity
+- Team Collaboration
 
 ---
 
@@ -193,23 +190,20 @@ Features
 
 Gesture-controlled Augmented Reality application
 
-Features
-
-- Hand Tracking
-- Pinch Detection
-- Dynamic AR Filters
-- OpenCV
 - MediaPipe
+- OpenCV
+- Hand Tracking
+- Dynamic AR Filters
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nithinisaimg&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nithinisaimg&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinisaimg&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinisaimg&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </p>
 
@@ -219,65 +213,77 @@ Features
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithinisaimg&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=nithinisaimg&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nithinisaimg&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nithinisaimg&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Learning
+# 📈 Contribution Graph
 
-- Advanced React
-- AI Agents
-- Cloud Computing
-- System Design
-- Scalable Backend Architecture
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinisaimg&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-# 💼 Looking For
+# 🎯 What I Love Building
+
+✅ AI Applications
+
+✅ Full Stack Web Apps
+
+✅ NLP Systems
+
+✅ Real-Time Collaboration Platforms
+
+✅ Data Visualization Dashboards
+
+✅ Healthcare Analytics
+
+✅ Educational Technology
+
+---
+
+# 💼 Open to
 
 - Software Engineering Internships
-- AI/ML Projects
+- AI / ML Projects
+- Full Stack Development
 - Open Source Collaboration
-- Full Stack Development Opportunities
 
 ---
 
 # 📫 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="mailto:nithinpgowda0099@gmail.com">
-📧 Email
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-•
 
 <a href="https://linkedin.com/in/nithinisaimg">
-LinkedIn
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
-•
 
 <a href="https://github.com/nithinisaimg">
-GitHub
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-•
-
 <a href="https://adios-amigo.vercel.app">
-Portfolio
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
@@ -286,8 +292,10 @@ Portfolio
 
 # 💭 Quote
 
-> **"The best way to learn technology is to build with it."**
+> **"Building meaningful technology isn't just about writing code—it's about creating solutions that make a difference."**
 
 ---
 
-⭐ Thanks for visiting my profile!
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
