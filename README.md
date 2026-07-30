@@ -197,48 +197,6 @@ Gesture-controlled Augmented Reality application
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nithinisaimg&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithinisaimg&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nithinisaimg&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nithinisaimg&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nithinisaimg&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🎯 What I Love Building
 
 ✅ AI Applications
